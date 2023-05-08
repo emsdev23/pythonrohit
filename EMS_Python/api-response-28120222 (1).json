@@ -1,0 +1,185 @@
+{
+  "requestid": "09caf57d-d183-448a-8cbc-b9356d562fe0",
+  "requesttimestamp": "1671717075",
+  "requesttime": "Thu, 22 Dec 2022 13:51:15 UTC",
+  "meta": {
+    "wms": [
+      {
+        "wmstypeid": "1",
+        "wmscount": 1,
+        "wmstype": "1",
+        "wmsmake": "Make",
+        "wmsmodel": "Model"
+      }
+    ],
+    "inverters": [
+      {
+        "invertertypeid": "1",
+        "invertercount": 1,
+        "stringinvertercount": 8,
+        "invertertype": "1",
+        "invertermake": "Huawei",
+        "invertermodel": "Model",
+        "capacity": "1.5",
+        "panelmake": "",
+        "panelefficency": ""
+      }
+    ],
+    "meters": [
+      {
+        "metertypeid": "1",
+        "metercount": 1,
+        "metertype": "1",
+        "metermake": "",
+        "metermodel": ""
+      }
+    ]
+  },
+  "data": [
+    {
+      "timestamp": "1671717075",
+      "time": "Thu, 22 Dec 2022 13:51:15 GMT",
+      "wms": [
+        {
+          "name": "MCR WMS",
+          "ambienttemp": 47,
+          "irradiation": 900,
+          "humidity": 80,
+          "windspeed": 6,
+          "wmstypeid": "1",
+          "deviceid": "xxxxx"
+        }
+      ],
+      "inverter": [
+        {
+          "name": "String INV1",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV2",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV3",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV4",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV5",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV6",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV7",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        },
+        {
+          "name": "String INV8",
+          "energy": 100,
+          "activepower": 20,
+          "frequency": 50,
+          "reactivepower": 5,
+          "dcpower": 30,
+          "invertertemparture": 47,
+          "status": 407,
+          "powersetpoint": 1000,
+          "dccurrent": 0,
+          "dcvoltage": 0,
+          "invertertypeid": "1",
+          "deviceid": "xxxxx"
+        }
+      ],
+      "meters": [
+        {
+          "name": "OG Meter",
+          "energy": 5000,
+          "Power": 500,
+          "deviceid": "xxxxx"
+        }
+      ]
+    }
+  ]
+}
