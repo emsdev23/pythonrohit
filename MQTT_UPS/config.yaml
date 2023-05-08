@@ -1,0 +1,18 @@
+
+#Connection Details
+Broker_connection:
+  broker: 10.9.39.25
+  port: 1883
+  keep_alive: 60
+  userName: swadha
+  password: dhawas@123
+  
+  
+#Broker Topics 
+Topics :
+  Load : swadha/50KUPS001/Load/log
+  Battery : swadha/50KUPS001/Battery/log
+  Charger : swadha/50KUPS001/Charger/log
+  CV : swadha/50KUPS001/CV/log
+  CT : swadha/50KUPS001/CT/log
+  Specs : swadha/50KUPS001/Specs/log

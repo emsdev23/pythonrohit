@@ -1,0 +1,8 @@
+2023-05-06 11:40:13,723 # _do_auth(): user: root
+2023-05-06 11:40:13,724 # _do_auth(): self._auth_plugin: 
+2023-05-06 11:40:13,724 # _do_auth(): user: root
+2023-05-06 11:40:13,724 # _do_auth(): password: 22@teneT
+2023-05-06 11:40:13,724 package: mysql.connector.plugins
+2023-05-06 11:40:13,724 plugin_name: mysql_native_password
+2023-05-06 11:40:13,725 AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2023-05-06 11:40:13,726 new_auth_plugin: mysql_native_password
